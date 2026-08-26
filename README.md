@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+LofiSu.+AI+Full-Stack+Engineer" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Hazel.+AI+Full-Stack+Engineer" alt="Hi"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
     <strong>I'm currently Focus on Agentic Infra.</strong>
@@ -34,12 +34,12 @@
 </td>
 <td valign="top" width="48%">
 
-#### 💻 Open Source Experience
+#### 📌 Featured Work
 
-> 🏅 [View Awards →](https://github.com/Hazel1103/Hazel1103/edit/main/Awards.md)
+> 🏅 [View Portfolio →](https://github.com/Hazel1103/Hazel1103/edit/main/Portfolio.md)
 
 - 🦌 **奖项**奖状or链接
-- ✨ **2**
+- ✨ **项目**链接
 - 🏆 **3**
 - 🌟 **4**
 
