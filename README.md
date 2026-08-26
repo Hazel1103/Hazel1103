@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Hazel.+AI+Full-Stack+Engineer" alt="Hi"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>I'm currently Focus on Agentic Infra.</strong>
+    <strong>I'm Geek Changing the World with Code.</strong>
   </p>
 
   <p>
