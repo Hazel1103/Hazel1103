@@ -6,7 +6,7 @@
   </p>
 
   <p>
-    <code>![roujiamo](./roujiamo.svg) Born 2003.11.03 · ShaanXi, China.</code>
+    <code>🍓 Born 2003.11.03 · ShaanXi, China.</code>
     <code>📍 Now Base in ShenZhen.</code>
   </p>
 
@@ -25,10 +25,10 @@
 > 📄 [View Offers →](https://github.com/Hazel1103/Hazel1103/edit/main/Offers.md)
 
 <p>
-<strong>Bytedance</strong> -- <code>DouyinAI AI4SE Agentic RL·Infra </code> -- <code>2025.12 to 4.</code><br/>
-<strong>ByteDance</strong> -- <code>E-commerce Tech Team</code> -- <code>2025.5 to 9.</code><br/>
-<strong>ByteDance</strong> -- <code>Live Streaming Tech Team </code> -- <code>2025.1 to 5.</code><br/>
-<strong>Bilibili</strong> -- <code>OGV Tech Team </code> -- <code>2024.7 to 2024.11.</code><br/>
+<strong>公司</strong> -- <code>部门or项目</code> -- <code>时间</code><br/>
+<strong></strong> -- <code></code> -- <code></code><br/>
+<strong></strong> -- <code></code> -- <code></code><br/>
+<strong></strong> -- <code></code> -- <code></code><br/>
 </p>
 
 </td>
@@ -38,10 +38,10 @@
 
 > 🏅 [View Awards →](https://github.com/Hazel1103/Hazel1103/edit/main/Awards.md)
 
-- 🦌 **Maintainer of [ByteDance/DeerFlow](https://github.com/bytedance/deer-flow)**
-- ✨ **Apache Committer — [Fory.Apache](https://fory.apache.org/)**
-- 🏆 **Tencent Rhino Bird** Open Source Practical AwardOpen Source Contributor — [Tencent Omi](https://github.com/Tencent/omi)
-- 🌟 **Alibaba** Open Source Contributor — [Higress](https://github.com/alibaba/higress) · [OpenYurt](https://github.com/openyurtio/openyurt) · [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)
+- 🦌 **奖项**奖状or链接
+- ✨ **2**
+- 🏆 **3**
+- 🌟 **4**
 
 </td>
 </tr>
