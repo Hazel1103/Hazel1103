@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+LofiSu.+AI+Full-Stack+Engineer" alt="Hi"/>
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+    <strong>I'm currently Focus on Agentic Infra.</strong>
+  </p>
 
-<!--
-**Hazel1103/Hazel1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    <code>![roujiamo](./roujiamo.svg) Born 2003.11.03 · ShaanXi, China.</code>
+    <code>📍 Now Base in ShenZhen.</code>
+  </p>
 
-Here are some ideas to get you started:
+<p>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<table>
+<tr>
+<td valign="top" width="50%">
+  
+#### 💼 Work Experience
+  
+#### 🌱 Internship Experience
+
+> 📄 [View Offers →](https://github.com/Hazel1103/Hazel1103/edit/main/Offers.md)
+
+<p>
+<strong>Bytedance</strong> -- <code>DouyinAI AI4SE Agentic RL·Infra </code> -- <code>2025.12 to 4.</code><br/>
+<strong>ByteDance</strong> -- <code>E-commerce Tech Team</code> -- <code>2025.5 to 9.</code><br/>
+<strong>ByteDance</strong> -- <code>Live Streaming Tech Team </code> -- <code>2025.1 to 5.</code><br/>
+<strong>Bilibili</strong> -- <code>OGV Tech Team </code> -- <code>2024.7 to 2024.11.</code><br/>
+</p>
+
+</td>
+<td valign="top" width="48%">
+
+#### 💻 Open Source Experience
+
+> 🏅 [View Awards →](https://github.com/Hazel1103/Hazel1103/edit/main/Awards.md)
+
+- 🦌 **Maintainer of [ByteDance/DeerFlow](https://github.com/bytedance/deer-flow)**
+- ✨ **Apache Committer — [Fory.Apache](https://fory.apache.org/)**
+- 🏆 **Tencent Rhino Bird** Open Source Practical AwardOpen Source Contributor — [Tencent Omi](https://github.com/Tencent/omi)
+- 🌟 **Alibaba** Open Source Contributor — [Higress](https://github.com/alibaba/higress) · [OpenYurt](https://github.com/openyurtio/openyurt) · [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)
+
+</td>
+</tr>
+</table>
