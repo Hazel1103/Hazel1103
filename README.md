@@ -22,13 +22,13 @@
   
 #### 🌱 Internship Experience
 
-> 📄 [View Offers →](https://github.com/Hazel1103/Hazel1103/edit/main/Offers.md)
+> 📄 [View Offers →](https://github.com/Hazel1103/Hazel1103/blob/main/offer.md)
 
 <p>
-<strong>公司</strong> -- <code>部门or项目</code> -- <code>时间</code><br/>
-<strong></strong> -- <code></code> -- <code></code><br/>
-<strong></strong> -- <code></code> -- <code></code><br/>
-<strong></strong> -- <code></code> -- <code></code><br/>
+<strong>西安元启医疗科技软件有限公司</strong> -- <code>智慧物联网综合管理平台研发部</code> -- <code>2025.7 to 12</code><br/>
+
+
+<strong>陕西正和芯科光电技术有限公司</strong> -- <code>ROSA质量管理部</code> -- <code>2026.4 to 7</code><br/>
 </p>
 
 </td>
@@ -36,12 +36,15 @@
 
 #### 📌 Featured Work
 
-> 🏅 [View Portfolio →](https://github.com/Hazel1103/Hazel1103/edit/main/Portfolio.md)
+> 🏅 [View Portfolio →](https://github.com/Hazel1103/Hazel1103/blob/main/highlights/portfolio.md)
 
-- 🦌 **奖项**奖状or链接
-- ✨ **项目**链接
-- 🏆 **3**
-- 🌟 **4**
+- 🦌 **机动车 C1 驾驶证**
+- ✨ **全国大学生数学竞赛二等奖**
+- 🏆 **国家励志奖学金**
+- 💻 **Deep-Learning-Based-Intelligent-Intersection-Surveillance-System**[毕业设计项目](https://github.com/Hazel1103/Deep-Learning-Based-Intelligent-Intersection-Surveillance-System) 
+- 🛠️ **Advanced-Adaptive-Traffic-Light-Control-System**[智能红绿灯项目](https://github.com/Hazel1103/Advanced-Adaptive-Traffic-Light-Control-System) 
+- 🔗 **NetworkChatRoom**[网络聊天室JavaWeb项目](https://github.com/Hazel1103/NetworkChatRoom) 
+- 🌟 **Deep-Learning-On-Raspberry-Pi**[树莓派图像项目](https://github.com/Hazel1103/Deep-Learning-On-Raspberry-Pi)  
 
 </td>
 </tr>
